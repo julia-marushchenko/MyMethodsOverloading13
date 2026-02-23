@@ -1,5 +1,5 @@
 /**
- *   Java program to demonstrate method overloading.
+ *   Java program to demonstrate compile polymorphism.
  */
 
 package com.mymethods;
